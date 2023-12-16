@@ -1,5 +1,5 @@
 '''
-Code by Abdulhadi Ali Alaraj - U20103040
+Code by Abdulhadi Ali Alaraj
 
 Dependencies:
 -   Pandas
